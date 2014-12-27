@@ -1,0 +1,2 @@
+export MONGO_URL=mongodb://gera.vn/veda
+sudo mount --bind /home/vagrant/veda/local/ /vagrant/veda/engine/.meteor/local/ & cd /vagrant/veda/engine
